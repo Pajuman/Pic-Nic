@@ -1,14 +1,13 @@
-Pic Nic
-A card game for 1-2 players — designed by me.
+Pic Nic - a card game for 1-2 players — designed by me.
 
 
-Story:
+- Story:
 Good people went out for a picnic on a sunny day.
 But not everything goes as planned — some uninvited insect guests want a bite of those sweet treats too!
 And so the race begins: feed your insect buddies before the other player does.
 
 
-Rules:
+- Rules:
 There are 3 baskets — you choose which one to throw your card into.
 Card order matters — strategy is key.
 If your insect lands on food, it eats it.
@@ -28,14 +27,14 @@ Winning condition: You must win 2 out of 3 baskets.
 Game ends when one player runs out of cards.
 
 
-Controls:
+- Controls:
 Throw in basket - a, s, d
 Get advanced bug - q, e
 Put top card to bottom - w
 Put bottom card to top -x
 
 
-Config:
+- Config:
 on lines 28 - 31 you can change some settings:
 - AI = false ................. 2 players can play now
 - AI_rychlost ................ speed at which the AI cards are moving
@@ -43,13 +42,13 @@ on lines 28 - 31 you can change some settings:
 - RYCHLOST ................... overall speed of the game 
 
 
-History:
+- History:
 I’ve always loved playing and designing board games.
 Pic Nic started out as a real card game I designed with the hope of publishing it.
 Eventually, it turned into a fun Python project.
 
 
-Special thanks to:
+- Special thanks to:
 Monika Brýdová - concept art
 Vanda Žáčiková - main tester
 all the family and friends and unknowns - testers
