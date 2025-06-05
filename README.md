@@ -32,7 +32,7 @@ Each of the 3 baskets is scored independently.
     - Throw in basket - a, s, d
     - Get advanced bug - q, e
     - Put top card to bottom - w
-    - Put bottom card to top -x
+    - Put bottom card to top - x
 
 
 - Config:
