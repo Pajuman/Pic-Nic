@@ -34,6 +34,8 @@ You score points for:
     - Get advanced bug - q, e
     - Put top card to bottom - w
     - Put bottom card to top - x
+    - Player 2 if enabled:
+      - numeric keyboard  
 
 
 - Config:
