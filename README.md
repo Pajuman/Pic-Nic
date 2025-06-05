@@ -23,8 +23,9 @@ You score points for:
   - the food they eat
     
 Each of the 3 baskets is scored independently.
-Winning condition: You must win 2 out of 3 baskets.
-Game ends when one player runs out of cards.
+- Winning condition:
+  - You must win 2 out of 3 baskets.
+  - Game ends when one player runs out of cards.
 
 
 - Controls:
