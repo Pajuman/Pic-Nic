@@ -28,10 +28,10 @@ Game ends when one player runs out of cards.
 
 
 - Controls:
-Throw in basket - a, s, d
-Get advanced bug - q, e
-Put top card to bottom - w
-Put bottom card to top -x
+    - Throw in basket - a, s, d
+    - Get advanced bug - q, e
+    - Put top card to bottom - w
+    - Put bottom card to top -x
 
 
 - Config:
