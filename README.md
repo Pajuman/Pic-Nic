@@ -36,10 +36,10 @@ Game ends when one player runs out of cards.
 
 - Config:
 on lines 28 - 31 you can change some settings:
-- AI = false ................. 2 players can play now
-- AI_rychlost ................ speed at which the AI cards are moving
-- AI_int ..................... higher the value - smarter the AI
-- RYCHLOST ................... overall speed of the game 
+  - AI = false ................. 2 players can play now
+  - AI_rychlost ................ speed at which the AI cards are moving
+  - AI_int ..................... higher the value - smarter the AI
+  - RYCHLOST ................... overall speed of the game 
 
 
 - History:
